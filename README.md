@@ -1,75 +1,49 @@
-<h1 align="center">YourName</h1>
-<p align="center">
-  <b>Fullstack Developer • Clean Code • Modern UI</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block;">
+    shull1x
+  </span>
+  <a href="https://">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-0A0A0A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-111111?style=for-the-badge">
+</h1>
+</div>
+
+<p align="center" style="margin: 20px 0;">
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" /></a>
+  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" /></a>
+  <a href="https://reactjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" /></a>
+  <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" /></a>
+  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" /></a>
 </p>
 
----
 
-<h2 align="center">Tech Stack</h2>
+<hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 20px 0;">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript">
+<p align="center" style="margin: 20px 0;">
+  <!-- OS & Tools -->
+  <a href="https://www.microsoft.com/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" /></a>
+  <a href="https://www.archlinux.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" /></a>
+  <a href="https://ubuntu.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /></a><br>
+  <a href="https://www.image-line.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FLStudio/flstudio2.svg" /></a>
+  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" /></a>
+  <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" /></a>
+  <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs">
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite">
-</p>
+<hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 20px 0;">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs">
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express">
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb">
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma">
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux">
-</p>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://discord.com/users/yourid">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord">
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Built with precision. Designed minimal.</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shull1x&theme=radical" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shull1x&theme=radical" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shull1x&show_icons=true&theme=radical" alt=""/>
 </p>
